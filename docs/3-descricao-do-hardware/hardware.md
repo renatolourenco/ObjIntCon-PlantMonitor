@@ -12,5 +12,5 @@
 
 * Conversor ADC MCP3008
 
-* Modulo Relé 2 
-* Bomba de água submersa 12V
+* Modulo RelÃ© 2 
+* Bomba de Ã¡gua submersa 12V
